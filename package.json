@@ -1,0 +1,25 @@
+{
+  "name": "discord.js-bot-checker",
+  "version": "1.0.0",
+  "author": "Finn Kötting",
+  "description": "A simple Discord.js bot checker to verify if a bot is working properly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnkoetting/Discord.js-Bot-Checker.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/finnkoetting/Discord.js-Bot-Checker/issues"
+  },
+  "homepage": "https://github.com/finnkoetting/Discord.js-Bot-Checker#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "fs": "^0.0.1-security"
+  }
+}
